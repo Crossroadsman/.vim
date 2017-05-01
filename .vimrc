@@ -16,3 +16,6 @@ set is
 
 " tab spacing
 set ts=4 expandtab
+
+" display line numbers
+set number
