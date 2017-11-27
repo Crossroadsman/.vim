@@ -32,3 +32,8 @@ ino <down> <Nop>
 ino <left> <Nop>
 ino <right> <Nop>
 ino <up> <Nop>
+
+" textmate-style invisibles
+" (view invisibles with :set list
+"  and hide with :set nolist)
+set listchars=tab:▸\ ,eol:¬
