@@ -1,3 +1,5 @@
+scriptencoding utf-8 
+set encoding=utf-8
 " Custom VIM Settings
 " Alex Koumparos (2017)
 " Inspired by Luke Maciak's version at:
@@ -36,6 +38,7 @@ ino <up> <Nop>
 " textmate-style invisibles
 " (view invisibles with :set list
 "  and hide with :set nolist)
+" the following
 set listchars=tab:▸\ ,eol:¬,trail:·
 
 " load colorscheme
