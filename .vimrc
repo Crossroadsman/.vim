@@ -36,7 +36,7 @@ ino <up> <Nop>
 " textmate-style invisibles
 " (view invisibles with :set list
 "  and hide with :set nolist)
-set listchars=tab:▸\ ,eol:¬
+set listchars=tab:▸\ ,eol:¬,trail:·
 
 " load colorscheme
 " (for light mode, change background:
