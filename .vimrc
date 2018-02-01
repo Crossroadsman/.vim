@@ -38,7 +38,11 @@ ino <up> <Nop>
 " textmate-style invisibles
 " (view invisibles with :set list
 "  and hide with :set nolist)
-" the following
+" the following line generated E474 for some system combinations
+" (Ubuntu 17.10 / Vim 8.0)
+" but error silenced by adding utf-8 statements at beginning of file
+" note tab characters aren't displayed because vim is set to convert
+" tabs to spaces
 set listchars=tab:▸\ ,eol:¬,trail:·
 
 " load colorscheme
