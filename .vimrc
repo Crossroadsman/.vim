@@ -37,3 +37,13 @@ ino <up> <Nop>
 " (view invisibles with :set list
 "  and hide with :set nolist)
 set listchars=tab:▸\ ,eol:¬
+
+" load colorscheme
+" (for light mode, change background:
+"  set background=light
+" )
+" (NOTE: If using Terminal.app, make sure that its colour settings
+"  are correct, see the Solarized website for details)
+syntax enable
+set background=dark
+colorscheme solarized
