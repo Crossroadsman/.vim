@@ -15,6 +15,8 @@ set visualbell
 " search
 " (is : highlight next match as you type (scrolling document as necessary))
 set is
+" (hlsearch : highlight all matches)
+set hlsearch
 
 " tab spacing
 set ts=4 expandtab
