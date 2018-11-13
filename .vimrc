@@ -13,12 +13,17 @@ set noerrorbells
 set visualbell
 
 " search
-" (is : highlight next match as you type (scrolling document as necessary))
+" (is : highlight next match as you type (scrolling document as necessary)
+" note that if compiled with +relsearch (like default in Ubuntu 18.04 and
+" macOS) vim will only allow approx ~0.5 seconds of search, so long files
+" and complex patterns may not show all hits in the document)
 set is
 " (hlsearch : highlight all matches)
 set hlsearch
 
 " tab spacing
+" (ts: set the number of spaces a tab is equal to; expandtab: turn all tabs
+" into spaces)
 set ts=4 expandtab
 
 " display line numbers
