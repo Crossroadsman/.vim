@@ -29,7 +29,11 @@ set ts=4 expandtab
 " display line numbers
 set number
 
+" show syntax highlighting by default
+syntax on
+
 " remap controls
+" --------------
 
 " unmap arrow keys
 no <down> <Nop>
