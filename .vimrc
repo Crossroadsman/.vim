@@ -26,25 +26,12 @@ set hlsearch
 " into spaces)
 set ts=4 expandtab
 
-" display line numbers
+" display line numbers and use relative numbering (aka 'hybrid mode')
 set number
+set rnu
 
 " show syntax highlighting by default
 syntax on
-
-" remap controls
-" --------------
-
-" unmap arrow keys
-no <down> <Nop>
-no <left> <Nop>
-no <right> <Nop>
-no <up> <Nop>
-
-ino <down> <Nop>
-ino <left> <Nop>
-ino <right> <Nop>
-ino <up> <Nop>
 
 " textmate-style invisibles
 " (view invisibles with :set list
@@ -65,6 +52,28 @@ set listchars=tab:▸\ ,eol:¬,trail:·
 syntax enable
 set background=dark
 colorscheme solarized
+
+" display ruler
+set ruler
+
+
+" remap controls
+" --------------
+
+" unmap arrow keys
+no <down> <Nop>
+no <left> <Nop>
+no <right> <Nop>
+no <up> <Nop>
+
+ino <down> <Nop>
+ino <left> <Nop>
+ino <right> <Nop>
+ino <up> <Nop>
+
+
+" custom commands
+" ---------------
 
 " Allow saving of files as sudo when I forgot to start vim using sudo
 " (see https://stackoverflow.com/questions/2600783/how-does-the-vim-write-with-sudo-trick-work)
