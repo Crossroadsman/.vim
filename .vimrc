@@ -26,6 +26,9 @@ set hlsearch
 " into spaces)
 set ts=4 expandtab
 
+" number of spaces a `shift` is equal to, used by `<`, `>`, `cindent`
+set shiftwidth=4
+
 " display line numbers and use relative numbering (aka 'hybrid mode')
 set number
 set rnu
