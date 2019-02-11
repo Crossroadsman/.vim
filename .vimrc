@@ -74,6 +74,11 @@ ino <left> <Nop>
 ino <right> <Nop>
 ino <up> <Nop>
 
+" re-enable backspace
+" (seems like certain versions of vim default to backspace as a Nop)
+" `:help bs` for more explanation
+set bs=2
+
 
 " custom commands
 " ---------------
