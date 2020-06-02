@@ -1,8 +1,8 @@
 Ubuntu WSL Terminal Order
 =========================
 
-Colors are from <https://ethanschoonover.com/solarized/>
-Terminal mapping from <https://www.reddit.com/r/bashonubuntuonwindows/comments/60da1u/solarized_colors_for_vim_in_bash_on_windows_works/>
+- Colors are from <https://ethanschoonover.com/solarized/>
+= Terminal mapping from <https://www.reddit.com/r/bashonubuntuonwindows/comments/60da1u/solarized_colors_for_vim_in_bash_on_windows_works/>
 
 #|S NAME |HEX #   | TERMCOL |XTERM| XT HEX |L\*|A\*|B | R |G  |B  |  HSB
 -|-------|--------|---------|-----|--------|-:|--:|--:|--:|--:|--:|-----------
@@ -23,4 +23,3 @@ D|violet | 6c71c4 |brmagenta|  61 | 5f5faf |50| 15|-45|108|113|196|237  45  77
 E|base00 | 657b83 |bryellow | 241 | 626262 |50|-07|-07|101|123|131|195  23  51
 F|base3  | fdf6e3 |brwhite  | 230 | ffffd7 |97| 00| 10|253|246|227| 44  10  99
 
-01234567890123456789012345678901234567890123456789012345678901234567890123456789
