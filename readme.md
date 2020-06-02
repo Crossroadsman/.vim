@@ -16,14 +16,15 @@ ln -s .vim/.vimrc .vimrc
 Platform-Specific Optional Steps
 --------------------------------
 
+### MacOS ###
+
+#### Remap Caps Lock -> Escape ####
+
+**TODO**
+
 ### Windows ###
 
 #### Remap Caps Lock -> Escape ####
 
 Use [uncap](https://github.com/susam/uncap)
 
-### MacOS ###
-
-#### Remap Caps Lock -> Escape ####
-
-**TODO**
