@@ -2,7 +2,7 @@ Ubuntu WSL Terminal Order
 =========================
 
 - Colors are from <https://ethanschoonover.com/solarized/>
-= Terminal mapping from <https://www.reddit.com/r/bashonubuntuonwindows/comments/60da1u/solarized_colors_for_vim_in_bash_on_windows_works/>
+- Terminal mapping from <https://www.reddit.com/r/bashonubuntuonwindows/comments/60da1u/solarized_colors_for_vim_in_bash_on_windows_works/>
 
 #|S NAME |HEX #   | TERMCOL |XTERM| XT HEX |L\*|A\*|B | R |G  |B  |  HSB
 -|-------|--------|---------|-----|--------|-:|--:|--:|--:|--:|--:|-----------
