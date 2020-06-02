@@ -28,3 +28,8 @@ Platform-Specific Optional Steps
 
 Use [uncap](https://github.com/susam/uncap)
 
+
+Cheatsheets and Guides
+----------------------
+
+See generally [Learning Vim](https://github.com/Crossroadsman/LearningVim) and [Cheatsheet](https://github.com/Crossroadsman/LearningVim/blob/master/Keys.md)
